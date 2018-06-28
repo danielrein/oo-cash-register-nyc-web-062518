@@ -22,9 +22,9 @@ class CashRegister
     end
   end
 
-  # def items
-  #   self.items
-  # end
+  def items
+    self.items
+  end
 
 
 end
